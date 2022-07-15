@@ -7,26 +7,26 @@ Web browser written in C#
 ## Version 1.0
 
 ## Features
-- [ ] Sending HTTP request messages
-- [ ] Receiving HTTP response messages
-- [ ] Display
-- [ ] Home page 
-- [ ] Favourites 
-- [ ] History
+- [x] Sending HTTP request messages
+- [x] Receiving HTTP response messages
+- [x] Display
+- [x] Home page 
+- [x] Favourites 
+- [x] History
 - [ ] Bulk Download
-- [ ] GUI
+- [x] GUI
 
 ## Report
-- [ ] Introduction 
-- [ ] Requirements Checklist 
-- [ ] Design Considerations
-- [ ] User Guide
-- [ ] Developer Guide
-- [ ] Testing 
-- [ ] Conclusions
-- [ ] References 
+- [x] Introduction 
+- [x] Requirements Checklist 
+- [x] Design Considerations
+- [x] User Guide
+- [x] Developer Guide
+- [x] Testing 
+- [x] Conclusions
+- [x] References 
 	
 
 ## Submission Extras 
-- [ ] Screencast Video
+- [x] Screencast Video
 
